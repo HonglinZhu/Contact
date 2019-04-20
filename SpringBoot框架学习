@@ -1,0 +1,5 @@
+给项目设置context-path：
+     在配置文件application.yml中，添加如下格式一行： 
+                        server:
+                           servlet:
+                               context-path: /XXXXX      (其中XXXX为自己定义的项目在访问的url中的名称 )
