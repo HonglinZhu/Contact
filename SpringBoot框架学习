@@ -3,3 +3,4 @@
                         server:
                            servlet:
                                context-path: /XXXXX      (其中XXXX为自己定义的项目在访问的url中的名称 )
+注意：这里使用的是对spring boot 2.0版本之后的，之前的版本好像不用写中间的servlet
